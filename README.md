@@ -1,8 +1,12 @@
+<div align="center">
+<a>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=2000&color=F72A90&width=600&lines=Welcome+to+my+Portfolio!+)](https://git.io/typing-svg)
+<a/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700">
+</a>
+</div>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=2000&color=F72A90&width=600&lines=Welcome+to+my+Portfolio!+)](https://git.io/typing-svg)
-
-![profile](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 <br/>
 # <h1 align="center">Mohammed Rehan</h1>
 ### <h3 align="center">A passionate & results-driven Business Analyst and Data Scientist.</h3>
