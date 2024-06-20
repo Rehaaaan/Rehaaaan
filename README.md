@@ -4,8 +4,8 @@
 
 ![profile](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 <br/>
-# MOHAMMED REHAN
-### A passionate and results-driven Business Analyst and Data Scientist.
+# <h1 align="center">Mohammed Rehan</h1>
+### <h3 align="center">A passionate & results-driven Business Analyst and Data Scientist.</h3>
 
 ---
 
