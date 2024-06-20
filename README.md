@@ -15,7 +15,7 @@
   - Achieved a GPA of 9.1
   - Coursework: Machine Learning, Data Mining, Statistical Analysis, Data Visualization
 
-- **Deeksha PU College (2018-2024)**
+- **Deeksha PU College (2018-2020)**
   - Achieved 92% (PCMB)
   - Coursework: Physics, Chemistry, Mathematics, Biology
 
@@ -123,7 +123,5 @@
 
 ---
 
-![Thank You GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-
-Thank you for visiting my portfolio! Feel free to explore my projects and reach out if you have any questions or opportunities. Let's connect and create something amazing together! 🚀
+## Thank you for visiting my portfolio! Feel free to explore my projects and reach out if you have any questions or opportunities. Let's connect and create something amazing together! 🚀
 
