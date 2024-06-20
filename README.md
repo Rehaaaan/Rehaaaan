@@ -1,22 +1,26 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=2000&color=F72A90&width=600&lines=Welcome!+to+my+Portfolio!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=2000&color=F72A90&width=600&lines=Welcome+to+my+Portfolio!+)](https://git.io/typing-svg)
 
 ![profile](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 <br/>
-# Mohammed Rehan
+# MOHAMMED REHAN
 ### A passionate and results-driven Business Analyst and Data Scientist.
 
 ---
 
 ## Education 🎓
 
-- **Bachelor's in Artificial Intelligence and Data Science**
-  - Achieved a GPA of 9.2
+- **Bachelor's in Artificial Intelligence and Data Science (2020-2024)**
+  - Achieved a GPA of 9.1
   - Coursework: Machine Learning, Data Mining, Statistical Analysis, Data Visualization
 
+- **Deeksha PU College (2018-2024)**
+  - Achieved 92% (PCMB)
+  - Coursework: Physics, Chemistry, Mathematics, Biology
+
 ---
-## Skills
+## Skills :hammer_and_pick:
 
 - **Programming Languages:** Python, SQL
 - **Data Analysis:** Excel, pandas, matplotlib, seaborn, statsmodels
@@ -29,13 +33,14 @@
 ## Certifications 📜
 
 - [Certified Google Business intelligence professional](https://www.credly.com/badges/54a9a624-e758-4bed-9eab-ae663c04d4fc/public_url)
-- International English Language Testing System (8/9 - Test taken: 29 Dec,23)
+- [International English Language Testing System (8/9 - Test taken: 29 Dec,23)](https://drive.google.com/file/d/1IT4ZcjhvSCA4WGtUhqErVUbZUu96zbrX/view?usp=sharing)
 - [Foundations of Business Intelligence](https://www.coursera.org/account/accomplishments/verify/M93TVRPFNSS2)
 - [Path to Insights: Data Models and Pipelines](https://www.coursera.org/account/accomplishments/verify/TECN7THDWRSF)
 - [Dashboards and reports](https://www.coursera.org/account/accomplishments/verify/2RDRCENT6VYG)
 - [Introduction to statistics](https://www.coursera.org/account/accomplishments/verify/MN6P7GXNHRBE)
 - [Advanced Data Visualization with Tableau](https://www.coursera.org/account/accomplishments/verify/WC4QVTJ95GKU)
 - Mastering Data Analysis in Excel
+- [SQL (basics)](https://www.hackerrank.com/certificates/5241e61824b7)
 
 
 ---
@@ -58,26 +63,21 @@
 
 ## Work Experience 💼
 
-- **Research Intern at IIIT Allahabad**
-  - **Duration:** June 2020 - July 2021
+- **Data Analyst Intern at IIIT Allahabad**
+  - **Duration:** October 2022 – January 2023
   - **Responsibilities:**
-    - Conducted in-depth research on machine learning algorithms and their applications.
-    - Developed and implemented data analysis models to support various research projects.
-    - Collaborated with professors and fellow researchers to publish findings in academic journals.
-    - 
-## **Achievements:**
-    - Published 2 papers in reputed journals.
-    - Secured an overall band of 8/9 in IELTS
+    - Applied machine learning algorithms, including Random Forest, Support Vector Machines (SVM), and Convolutional Neural Networks (CNN), to analyze and interpret complex datasets.
+    - Utilized remote sensing tools such as Snap, ENVI, and ArcGIS to process and analyze geographical and spatial data.
+    - Conducted data cleaning, preprocessing, and transformation to ensure the quality and accuracy of the datasets used for machine learning models.
+    - Performed exploratory data analysis (EDA) to uncover patterns and insights from large datasets, aiding in the development of predictive models.
 
-
-
-## Social Media 📡
-
-Join me on LinkedIn, where I share insights, victories, and even the occasional setback. Let's connect and grow together!
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohammed-rehan/](https://www.linkedin.com/in/mohammed-rehan-483943231/))
 
 ---
+
+## **Publications** :page_facing_up:
+
+1. [Prediction of schizophrenia in patients using fuzzy logic( AHP and TOPSIS)](https://link.springer.com/chapter/10.1007/978-981-99-3932-9_44)
+2. [Diabetes, hypertension, and stroke prediction using Machine Learning (ML) algorithms](https://ieeexplore.ieee.org/document/10235026)
 
 ## Languages and Tools
 
@@ -115,9 +115,12 @@ Join me on LinkedIn, where I share insights, victories, and even the occasional 
 
 ## Contact 📧
 
-- **Email:** mohammedrehan2342@gmail.com
-- **LinkedIn:** [Mohammed Rehan](https://www.linkedin.com/in/mohammed-rehan-483943231/)
-- 
+ [![**Email:**](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( mohammedrehan2342@gmail.com)
+ 
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohammed-rehan/](https://www.linkedin.com/in/mohammed-rehan-483943231/))
+
+[![https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rehah_ahan/)
+
 ---
 
 ![Thank You GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
