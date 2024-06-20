@@ -8,8 +8,8 @@
 </div>
 
 <br/>
-# <h1 align="center">Mohammed Rehan</h1>
-### <h3 align="center">A passionate & results-driven Business Analyst and Data Scientist.</h3>
+<h1 align="center">Mohammed Rehan</h1>
+<h3 align="center">A passionate & results-driven Business Analyst and Data Scientist.</h3>
 
 ---
 
