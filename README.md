@@ -12,18 +12,6 @@
 <h3 align="center">A passionate & results-driven Business Analyst and Data Scientist.</h3>
 
 ---
-
-## Education 🎓
-
-- **Bachelor's in Artificial Intelligence and Data Science (2020-2024)**
-  - Achieved a GPA of 9.1
-  - Coursework: Machine Learning, Data Mining, Statistical Analysis, Data Visualization
-
-- **Deeksha PU College (2018-2020)**
-  - Achieved 92% (PCMB)
-  - Coursework: Physics, Chemistry, Mathematics, Biology
-
----
 ## Skills :hammer_and_pick:
 
 - **Programming Languages:** Python, SQL
@@ -34,20 +22,19 @@
 
 ---
 
-## Certifications 📜
+## Work Experience 💼
 
-- [Certified Google Business intelligence professional](https://www.credly.com/badges/54a9a624-e758-4bed-9eab-ae663c04d4fc/public_url)
-- [International English Language Testing System (8/9 - Test taken: 29 Dec,23)](https://drive.google.com/file/d/1IT4ZcjhvSCA4WGtUhqErVUbZUu96zbrX/view?usp=sharing)
-- [Foundations of Business Intelligence](https://www.coursera.org/account/accomplishments/verify/M93TVRPFNSS2)
-- [Path to Insights: Data Models and Pipelines](https://www.coursera.org/account/accomplishments/verify/TECN7THDWRSF)
-- [Dashboards and reports](https://www.coursera.org/account/accomplishments/verify/2RDRCENT6VYG)
-- [Introduction to statistics](https://www.coursera.org/account/accomplishments/verify/MN6P7GXNHRBE)
-- [Advanced Data Visualization with Tableau](https://www.coursera.org/account/accomplishments/verify/WC4QVTJ95GKU)
-- Mastering Data Analysis in Excel
-- [SQL (basics)](https://www.hackerrank.com/certificates/5241e61824b7)
-
-
+- **Data Analyst Intern at IIIT Allahabad**
+  - **Duration:** October 2022 – January 2023
+  - **Responsibilities:**
+    - Applied machine learning algorithms, including Random Forest, Support Vector Machines (SVM), and Convolutional Neural Networks (CNN), to analyze and interpret complex datasets.
+    - Utilized remote sensing tools such as Snap, ENVI, and ArcGIS to process and analyze geographical and spatial data.
+    - Conducted data cleaning, preprocessing, and transformation to ensure the quality and accuracy of the datasets used for machine learning models.
+    - Performed exploratory data analysis (EDA) to uncover patterns and insights from large datasets, aiding in the development of predictive models.
+    
 ---
+
+
 
 ## Projects 🚀
 
@@ -65,24 +52,38 @@
 
 ---
 
-## Work Experience 💼
+## Education 🎓
 
-- **Data Analyst Intern at IIIT Allahabad**
-  - **Duration:** October 2022 – January 2023
-  - **Responsibilities:**
-    - Applied machine learning algorithms, including Random Forest, Support Vector Machines (SVM), and Convolutional Neural Networks (CNN), to analyze and interpret complex datasets.
-    - Utilized remote sensing tools such as Snap, ENVI, and ArcGIS to process and analyze geographical and spatial data.
-    - Conducted data cleaning, preprocessing, and transformation to ensure the quality and accuracy of the datasets used for machine learning models.
-    - Performed exploratory data analysis (EDA) to uncover patterns and insights from large datasets, aiding in the development of predictive models.
+- **Bachelor's in Artificial Intelligence and Data Science (2020-2024)**
+  - Achieved a GPA of 9.1
+  - Coursework: Machine Learning, Data Mining, Statistical Analysis, Data Visualization
 
+- **Deeksha PU College (2018-2020)**
+  - Achieved 92% (PCMB)
+  - Coursework: Physics, Chemistry, Mathematics, Biology
+---
+
+
+## Certifications 📜
+
+- [Certified Google Business intelligence professional](https://www.credly.com/badges/54a9a624-e758-4bed-9eab-ae663c04d4fc/public_url)
+- [International English Language Testing System (8/9 - Test taken: 29 Dec,23)](https://drive.google.com/file/d/1IT4ZcjhvSCA4WGtUhqErVUbZUu96zbrX/view?usp=sharing)
+- [Foundations of Business Intelligence](https://www.coursera.org/account/accomplishments/verify/M93TVRPFNSS2)
+- [Path to Insights: Data Models and Pipelines](https://www.coursera.org/account/accomplishments/verify/TECN7THDWRSF)
+- [Dashboards and reports](https://www.coursera.org/account/accomplishments/verify/2RDRCENT6VYG)
+- [Introduction to statistics](https://www.coursera.org/account/accomplishments/verify/MN6P7GXNHRBE)
+- [Advanced Data Visualization with Tableau](https://www.coursera.org/account/accomplishments/verify/WC4QVTJ95GKU)
+- Mastering Data Analysis in Excel
+- [SQL (basics)](https://www.hackerrank.com/certificates/5241e61824b7)
 
 ---
+
 
 ## **Publications** :page_facing_up:
 
 1. [Prediction of schizophrenia in patients using fuzzy logic( AHP and TOPSIS)](https://link.springer.com/chapter/10.1007/978-981-99-3932-9_44)
 2. [Diabetes, hypertension, and stroke prediction using Machine Learning (ML) algorithms](https://ieeexplore.ieee.org/document/10235026)
-
+---
 ## Languages and Tools
 
 ### Languages:
@@ -119,11 +120,7 @@
 
 ## Contact 📧
 
- [![**Email:**](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( mohammedrehan2342@gmail.com)
- 
- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohammed-rehan/](https://www.linkedin.com/in/mohammed-rehan-483943231/))
-
-[![https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rehah_ahan/)
+ [![**Email:**](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( mohammedrehan2342@gmail.com)   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohammed-rehan/](https://www.linkedin.com/in/mohammed-rehan-483943231/))  [![https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rehah_ahan/)
 
 ---
 
