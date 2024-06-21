@@ -42,7 +42,7 @@
    - Tools: SQL, Python, Excel, Tableau
    - Description: Analyzed historical e-commerce sales data to identify trends and seasonality, created visualizations, and forecasted future sales to assist in strategic planning and inventory management.
 
-2. **Financial Portfolio Optimization**
+2. [**Financial Portfolio Optimization**](https://github.com/Rehaaaan/Financial-Portfolio-Optimization)
    - Tools: Python, Excel
    - Description: Applied Markowitz Mean-Variance Optimization to maximize returns and minimize risk for a financial portfolio.
 
