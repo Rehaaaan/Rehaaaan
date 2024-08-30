@@ -46,6 +46,9 @@
    - Tools: Python, Excel
    - Description: Applied Markowitz Mean-Variance Optimization to maximize returns and minimize risk for a financial portfolio.
 
+3.[**Remote Sensing and GIS for Urban Area Extension**](https://github.com/Rehaaaan/Remote-sensing-and-GIS-for-Urban-Area-Extension)
+    - Tools:ENVI CLASSIC Toolbox,SNAP (Sentinel Application Platform), Python
+    - Description: This project uses remote sensing and GIS technologies, combined with machine learning models, to analyze and predict urban growth patterns for informed urban planning.
 
 ---
 
