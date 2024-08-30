@@ -9,7 +9,7 @@
 
 <br/>
 <h1 align="center">Mohammed Rehan</h1>
-<h3 align="center">A passionate & results-driven Business Analyst and Data Scientist.</h3>
+<h3 align="center">A passionate & results-driven Data Scientist and Business Analyst.</h3>
 
 ---
 ## Skills :hammer_and_pick:
@@ -34,8 +34,6 @@
     
 ---
 
-
-
 ## Projects 🚀
 
 1. [**E-commerce Sales Analysis and Forecasting**](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting)
@@ -46,9 +44,9 @@
    - Tools: Python, Excel
    - Description: Applied Markowitz Mean-Variance Optimization to maximize returns and minimize risk for a financial portfolio.
 
-3.[**Remote Sensing and GIS for Urban Area Extension**](https://github.com/Rehaaaan/Remote-sensing-and-GIS-for-Urban-Area-Extension)
-    - Tools:ENVI CLASSIC Toolbox,SNAP (Sentinel Application Platform), Python
-    - Description: This project uses remote sensing and GIS technologies, combined with machine learning models, to analyze and predict urban growth patterns for informed urban planning.
+3. [**Remote Sensing and GIS for Urban Area Extension**](https://github.com/Rehaaaan/Remote-sensing-and-GIS-for-Urban-Area-Extension)
+   - Tools:ENVI CLASSIC Toolbox,SNAP (Sentinel Application Platform), Python
+   - Description: This project uses remote sensing and GIS technologies, combined with machine learning models, to analyze and predict urban growth patterns for informed urban planning.
 
 ---
 
