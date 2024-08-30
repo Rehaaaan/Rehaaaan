@@ -46,9 +46,6 @@
    - Tools: Python, Excel
    - Description: Applied Markowitz Mean-Variance Optimization to maximize returns and minimize risk for a financial portfolio.
 
-3. [**Traffic Accident Analysis**](https://github.com/Rehaaaan/Traffic-Accident-Analysis)
-   - Tools: Python, Excel, Tableau
-   - Description: Analyzed traffic accident data to identify patterns, high-risk areas, and potential causes, developing an interactive Tableau dashboard to present findings.
 
 ---
 
