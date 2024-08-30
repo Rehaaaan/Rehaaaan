@@ -65,7 +65,6 @@
 ## Certifications 📜
 
 - [Certified Google Business intelligence professional](https://www.credly.com/badges/54a9a624-e758-4bed-9eab-ae663c04d4fc/public_url)
-- [International English Language Testing System (8/9 - Test taken: 29 Dec,23)](https://drive.google.com/file/d/1IT4ZcjhvSCA4WGtUhqErVUbZUu96zbrX/view?usp=sharing)
 - [Foundations of Business Intelligence](https://www.coursera.org/account/accomplishments/verify/M93TVRPFNSS2)
 - [Path to Insights: Data Models and Pipelines](https://www.coursera.org/account/accomplishments/verify/TECN7THDWRSF)
 - [Dashboards and reports](https://www.coursera.org/account/accomplishments/verify/2RDRCENT6VYG)
@@ -79,6 +78,11 @@
 1. [Prediction of schizophrenia in patients using fuzzy logic( AHP and TOPSIS)](https://link.springer.com/chapter/10.1007/978-981-99-3932-9_44)
 2. [Diabetes, hypertension, and stroke prediction using Machine Learning (ML) algorithms](https://ieeexplore.ieee.org/document/10235026)
 ---
+## **Test Scores**
+[International English Language Testing System (8/9 - Test taken: 29 Dec,23)](https://drive.google.com/file/d/1IT4ZcjhvSCA4WGtUhqErVUbZUu96zbrX/view?usp=sharing)
+
+---
+
 ## Languages and Tools
 
 ### Languages:
