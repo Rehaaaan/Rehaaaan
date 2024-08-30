@@ -54,8 +54,8 @@
 
 - **Bachelor's in Artificial Intelligence and Data Science (2020-2024)**
   - Achieved a GPA of 8.94
-  - Coursework: Machine Learning, Data Mining, Statistical Analysis, Data Visualization
-
+  - Coursework: Machine Learning, Data Science, Deep Learning, Big data tools and Techniques, Data Visualisation using Tableau, Data Structures and Algorithms (using C), Probability and Statistics in CS (Python), Linear Algebra for Machine Learning (Python)
+    
 - **Deeksha PU College (2018-2020)**
   - Achieved 92% (PCMB)
   - Coursework: Physics, Chemistry, Mathematics, Biology
