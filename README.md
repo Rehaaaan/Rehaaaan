@@ -70,7 +70,6 @@
 - [Dashboards and reports](https://www.coursera.org/account/accomplishments/verify/2RDRCENT6VYG)
 - [Introduction to statistics](https://www.coursera.org/account/accomplishments/verify/MN6P7GXNHRBE)
 - [Advanced Data Visualization with Tableau](https://www.coursera.org/account/accomplishments/verify/WC4QVTJ95GKU)
-- Mastering Data Analysis in Excel
 - [SQL (basics)](https://www.hackerrank.com/certificates/5241e61824b7)
 
 ---
@@ -103,15 +102,15 @@
 
 ### Other Tools:
 
-| Git | Docker | Anaconda |
-|-----|--------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/> |
+| Git | Anaconda |
+|-----|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/> |
 
 ### Operating Systems:
 
-| Linux | Ubuntu | Windows |
-|-------|--------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+| Linux | Windows |
+|-------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
 
 ---
 
