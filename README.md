@@ -53,7 +53,7 @@
 ## Education 🎓
 
 - **Bachelor's in Artificial Intelligence and Data Science (2020-2024)**
-  - Achieved a GPA of 9.1
+  - Achieved a GPA of 8.94
   - Coursework: Machine Learning, Data Mining, Statistical Analysis, Data Visualization
 
 - **Deeksha PU College (2018-2020)**
@@ -74,8 +74,6 @@
 - [SQL (basics)](https://www.hackerrank.com/certificates/5241e61824b7)
 
 ---
-
-
 ## **Publications** :page_facing_up:
 
 1. [Prediction of schizophrenia in patients using fuzzy logic( AHP and TOPSIS)](https://link.springer.com/chapter/10.1007/978-981-99-3932-9_44)
