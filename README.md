@@ -23,6 +23,13 @@
 ---
 
 ## Work Experience 💼
+- **Programmer Analyst Trainee at Cognizant Technology Solutions**
+  - **Duration:** October 2024 - Present
+  - **Responsibilities:**
+      - Cyber Security.
+      - Integrated Threat Management.
+      - Java & python.
+
 
 - **Data Analyst Intern at IIIT Allahabad**
   - **Duration:** October 2022 – January 2023
