@@ -1,137 +1,152 @@
+<!-- Cybersecurity Portfolio README by Mohammed Rehan -->
+
 <div align="center">
-<a>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=2000&color=F72A90&width=600&lines=Welcome+to+my+Portfolio!+)](https://git.io/typing-svg)
-<a/>
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700">
-</a>
+
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=1100&color=000000&center=true&vCenter=true&width=900&lines=Mohammed+Rehan;Cybersecurity+Engineer+(L2)+%7C+SOC+%7C+Threat+Investigator;Defend+%E2%80%A2+Detect+%E2%80%A2+Respond" alt="Typing Animation" />
+
 </div>
 
-<br/>
-<h1 align="center">Mohammed Rehan</h1>
-<h3 align="center">A passionate & results-driven Data Scientist and Business Analyst.</h3>
-
----
-## Skills :hammer_and_pick:
-
-- **Programming Languages:** Python, SQL
-- **Data Analysis:** Excel, pandas, matplotlib, seaborn, statsmodels
-- **Data Visualization:** Tableau, Power BI
-- **Machine Learning:** scikit-learn, Prophet
-- **Business Intelligence:** Data modeling, visualization, statistical analysis
-
 ---
 
-## Work Experience 💼
-- **Programmer Analyst Trainee at Cognizant Technology Solutions**
-  - **Duration:** October 2024 - Present
-  - **Responsibilities:**
-      - Cyber Security.
-      - Integrated Threat Management.
-      - Java & python.
+## 🧠 About Me
+
+> “Security isn’t just about blocking threats — it’s about **understanding them before they strike.**”
+
+I’m **Mohammed Rehan**, a **Cybersecurity Engineer (L2)** at **Cognizant**, focused on **SOC Operations**, **Incident Response**, and **Threat Investigation**.
+
+- Experienced in **Microsoft Defender (MDE, MDI, MDO)** and **Splunk**
+- Skilled in **KQL forensic investigations**, **phishing analysis**, and **endpoint hardening**
+- Authored **10+ SOPs & KBs**, improving triage efficiency by **25%**
+- Conducted **forensic analysis** on 100+ incidents per quarter across multiple client environments
 
 
-- **Data Analyst Intern at IIIT Allahabad**
-  - **Duration:** October 2022 – January 2023
-  - **Responsibilities:**
-    - Applied machine learning algorithms, including Random Forest, Support Vector Machines (SVM), and Convolutional Neural Networks (CNN), to analyze and interpret complex datasets.
-    - Utilized remote sensing tools such as Snap, ENVI, and ArcGIS to process and analyze geographical and spatial data.
-    - Conducted data cleaning, preprocessing, and transformation to ensure the quality and accuracy of the datasets used for machine learning models.
-    - Performed exploratory data analysis (EDA) to uncover patterns and insights from large datasets, aiding in the development of predictive models.
-    
----
-
-## Projects 🚀
-
-1. [**E-commerce Sales Analysis and Forecasting**](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting)
-   - Tools: SQL, Python, Excel, Tableau
-   - Description: Analyzed historical e-commerce sales data to identify trends and seasonality, created visualizations, and forecasted future sales to assist in strategic planning and inventory management.
-
-2. [**Financial Portfolio Optimization**](https://github.com/Rehaaaan/Financial-Portfolio-Optimization)
-   - Tools: Python, Excel
-   - Description: Applied Markowitz Mean-Variance Optimization to maximize returns and minimize risk for a financial portfolio.
-
-3. [**Remote Sensing and GIS for Urban Area Extension**](https://github.com/Rehaaaan/Remote-sensing-and-GIS-for-Urban-Area-Extension)
-   - Tools:ENVI CLASSIC Toolbox,SNAP (Sentinel Application Platform), Python
-   - Description: This project uses remote sensing and GIS technologies, combined with machine learning models, to analyze and predict urban growth patterns for informed urban planning.
 
 ---
 
-## Education 🎓
+## 💼 Professional Experience
 
-- **Bachelor's in Artificial Intelligence and Data Science (2020-2024)**
-  - Achieved a GPA of 8.94
-  - Coursework: Machine Learning, Data Science, Deep Learning, Big data tools and Techniques, Data Visualisation using Tableau, Data Structures and Algorithms (using C), Probability and Statistics in CS (Python), Linear Algebra for Machine Learning (Python)
-    
-- **Deeksha PU College (2018-2020)**
-  - Achieved 92% (PCMB)
-  - Coursework: Physics, Chemistry, Mathematics, Biology
----
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Cognizant_logo_2022.svg" height="40" alt="Cognizant Logo"/>
+</div>
+
+**Cognizant Technology Solutions**  
+*Jr. Cybersecurity Engineer (L2) — Bengaluru, India*  
+📅 *Oct 2024 – Present*
+
+- Investigated and resolved **100+ security incidents** and **250+ SRs** each quarter.
+- Conducted **endpoint forensic investigations** using Defender and KQL, improving alert precision.
+- Authored **10+ internal playbooks**, reducing triage time by 25%.
+- Performed **health and compliance audits** on 1,000+ devices, closing visibility gaps by 20%.
+- Created **threat trend reports** for clients, strengthening preventive defense posture.
 
 
-## Certifications 📜
-
-- [Certified Google Business intelligence professional](https://www.credly.com/badges/54a9a624-e758-4bed-9eab-ae663c04d4fc/public_url)
-- [Foundations of Business Intelligence](https://www.coursera.org/account/accomplishments/verify/M93TVRPFNSS2)
-- [Path to Insights: Data Models and Pipelines](https://www.coursera.org/account/accomplishments/verify/TECN7THDWRSF)
-- [Dashboards and reports](https://www.coursera.org/account/accomplishments/verify/2RDRCENT6VYG)
-- [Introduction to statistics](https://www.coursera.org/account/accomplishments/verify/MN6P7GXNHRBE)
-- [Advanced Data Visualization with Tableau](https://www.coursera.org/account/accomplishments/verify/WC4QVTJ95GKU)
-- [SQL (basics)](https://www.hackerrank.com/certificates/5241e61824b7)
-
----
-## **Publications** :page_facing_up:
-
-1. [Prediction of schizophrenia in patients using fuzzy logic( AHP and TOPSIS)](https://link.springer.com/chapter/10.1007/978-981-99-3932-9_44)
-2. [Diabetes, hypertension, and stroke prediction using Machine Learning (ML) algorithms](https://ieeexplore.ieee.org/document/10235026)
-   
----
-## **Test Scores**
-[(IELTS)International English Language Testing System (8/9 - Test taken: 29 Dec-2023)](https://drive.google.com/file/d/1IT4ZcjhvSCA4WGtUhqErVUbZUu96zbrX/view?usp=sharing)
 
 ---
 
-## Languages and Tools
+## 🏅 Certifications
 
-### Languages:
-
-| Python3 | SQL | JavaScript |
-|---------|-----|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
-
-### Libraries and Frameworks:
-
-| Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Statsmodels |
-|--------|-------|------------|---------|--------------|-------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/> | <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" title="Statsmodels" alt="Statsmodels" width="55" height="55"/> |
-
-### Tools for Data Manipulation:
-
-| Excel | Tableau | Power BI | Jupyter |
-|-------|---------|----------|---------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://github.com/Rehaaaan/Rehaaaan/blob/main/tableau.svg" title="Tableau" alt="Tableau" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> |
-
-### Other Tools:
-
-| Git | Anaconda |
-|-----|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/> |
-
-### Operating Systems:
-
-| Linux | Windows |
-|-------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+<table align="center" width="100%" cellspacing="0" cellpadding="10" border="0" role="presentation">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://learn.microsoft.com/credentials/certifications/azure-fundamentals/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure Fundamentals (AZ-900)" width="80"><br/>
+        <sub><b>Microsoft Azure Fundamentals (AZ-900)</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://learn.microsoft.com/credentials/certifications/security-compliance-and-identity-fundamentals/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft SC-900" width="70"><br/>
+        <sub><b>Microsoft Security, Compliance & Identity (SC-900)</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.paloaltonetworks.com/cyberfit/credentials/xsiam-analyst" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Palo_Alto_Networks_logo.svg" alt="Palo Alto XSIAM Analyst" width="90"><br/>
+        <sub><b>Palo Alto Networks — XSIAM Analyst</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.isc2.org/certifications/cc" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/ISC2_logo.svg" alt="(ISC)² CC" width="80"><br/>
+        <sub><b>(ISC)² — Certified in Cybersecurity (CC)</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.zscaler.com/education/ztca" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Zscaler_logo.svg" alt="Zscaler ZTCA" width="90"><br/>
+        <sub><b>Zscaler — Zero Trust Cyber Associate (ZTCA)</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.ielts.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/IELTS_logo.svg" alt="IELTS Academic (8/9)" width="80"><br/>
+        <sub><b>IELTS — Academic (8/9)</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Contact 📧
 
-[![**Email:**](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedrehan2342@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rehan-483943231/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rehah_ahan/)
+## 🚀 Projects & Achievements
+
+### 🧩 Endpoint Threat Investigation Playbook — *Microsoft Defender, KQL*
+> Built a standardized investigation workflow for file and URL threats — improved alert resolution speed by 25%.
+
+### 📧 Phishing Analysis & Threat Correlation — *MDO, VirusTotal, Hybrid Analysis*
+> Reduced false positives by 15% by correlating IOCs with sandbox and intelligence sources.
+
+### 📊 SOC Health Dashboard — *Splunk, Sentinel*
+> Designed dashboards for endpoint health, compliance trends, and SOC metrics — increased visibility by 30%.
+
+### 🧱 Zero Trust & Cloud Security Bootcamp — *Trainer @ Hindustan University*
+> Conducted a 3-day hands-on bootcamp for 100+ students on SOC workflows, Zero Trust, and Cloud Defense.
 
 ---
 
-## Thank you for visiting my portfolio! Feel free to explore my projects and reach out if you have any questions or opportunities. Let's connect and create something amazing together! 🚀
+## 🛡️ Technical Expertise
 
+| Category | Tools / Skills |
+|-----------|----------------|
+| **Security Tools** | Microsoft Defender, Splunk, Microsoft Sentinel (Basic), Palo Alto XSIAM, Trend Micro, Symantec |
+| **Core Domains** | SOC Operations, Incident Response, Threat Hunting, Endpoint Security, SIEM Correlation, Phishing Triage |
+| **Platforms** | Windows, Linux, Azure Cloud |
+| **Querying / Scripting** | KQL, Python (Basic), SQL |
+| **Soft Skills** | Analytical Thinking, Client Communication, Report Writing, SOP Development |
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (B.E.) — Artificial Intelligence & Data Science**  
+*Global Academy of Technology, Bengaluru (2020–2024)*  
+GPA: **8.94 / 10.00**
+
+---
+
+## 🧩 Continuous Learning
+
+Currently exploring:
+- **MITRE ATT&CK Mapping** for detection engineering  
+- **SOC Automation** with Power Automate & Logic Apps  
+- **Cloud Security Monitoring** (Sentinel + Defender for Cloud)  
+- **Advanced KQL Threat Hunting**
+
+> _“In cybersecurity, the best defense is continuous learning.”_
+
+---
+## 🤝 Get in Touch
+
+<p align="center"> 💬 I’m always open to connecting with cybersecurity professionals, recruiters, and learners.<br/> Whether it’s about SOC operations, incident response, or Zero Trust security, feel free to reach out. </p> <p align="center"> <a href="mailto:mohammedrehan2342@gmail.com"> <img src="https://img.shields.io/badge/Email-mohammedrehan2342%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/mohammed-rehan-483943231/"> <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Rehan-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp;&nbsp; <a href="https://github.com/Rehaaaan"> <img src="https://img.shields.io/badge/GitHub-Rehaaaan-black?style=for-the-badge&logo=github" /> </a> </p> <div align="center"> <br/>⭐ Thanks for visiting my portfolio! </div>
+
+## ⚙️ Terminal Snapshot
+
+```bash
+$ whoami
+mohammed_rehan  # Cybersecurity Engineer (L2) | SOC | Threat Investigator
+
+$ expertise
+soc_operations  endpoint_security  kql  splunk  phishing_analysis  zero_trust
