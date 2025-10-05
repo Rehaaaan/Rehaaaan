@@ -27,20 +27,18 @@ I’m **Mohammed Rehan**, a **Cybersecurity Engineer (L2)** at **Cognizant**, fo
 ## 💼 Professional Experience
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Cognizant_logo_2022.svg" height="40" alt="Cognizant Logo"/>
+  <img src="https://github.com/Rehaaaan/Rehaaaan/blob/main/ChatGPT%20Image%20Oct%206%2C%202025%2C%2005_05_29%20AM.png" height="100" alt="Cognizant Logo"/>
 </div>
 
-**Cognizant Technology Solutions**  
-*Jr. Cybersecurity Engineer (L2) — Bengaluru, India*  
-📅 *Oct 2024 – Present*
+## Cognizant Technology Solutions  
+**Jr. Cybersecurity Engineer (L2) — Bengaluru, India**
+📅**Oct 2024 – Present**
 
 - Investigated and resolved **100+ security incidents** and **250+ SRs** each quarter.
 - Conducted **endpoint forensic investigations** using Defender and KQL, improving alert precision.
 - Authored **10+ internal playbooks**, reducing triage time by 25%.
 - Performed **health and compliance audits** on 1,000+ devices, closing visibility gaps by 20%.
 - Created **threat trend reports** for clients, strengthening preventive defense posture.
-
-
 
 ---
 
