@@ -98,9 +98,6 @@ I’m **Mohammed Rehan**, a **Cybersecurity Engineer (L2)** at **Cognizant**, fo
 ### 📧 Phishing Analysis & Threat Correlation — *MDO, VirusTotal, Hybrid Analysis*
 > Reduced false positives by 15% by correlating IOCs with sandbox and intelligence sources.
 
-### 📊 SOC Health Dashboard — *Splunk, Sentinel*
-> Designed dashboards for endpoint health, compliance trends, and SOC metrics — increased visibility by 30%.
-
 ### 🧱 Zero Trust & Cloud Security Bootcamp — *Trainer @ Hindustan University*
 > Conducted a 3-day hands-on bootcamp for 100+ students on SOC workflows, Zero Trust, and Cloud Defense.
 
