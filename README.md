@@ -47,40 +47,40 @@ I’m **Mohammed Rehan**, a **Cybersecurity Engineer (L2)** at **Cognizant**, fo
 <table align="center" width="100%" cellspacing="0" cellpadding="10" border="0" role="presentation">
   <tr>
     <td align="center" width="33%">
-      <a href="https://learn.microsoft.com/credentials/certifications/azure-fundamentals/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure Fundamentals (AZ-900)" width="80"><br/>
+      <a href="https://learn.microsoft.com/en-gb/users/mohammedrehan-0695/credentials/55e93df8d723bada?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure Fundamentals (AZ-900)" width="90"><br/>
         <sub><b>Microsoft Azure Fundamentals (AZ-900)</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://learn.microsoft.com/credentials/certifications/security-compliance-and-identity-fundamentals/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft SC-900" width="70"><br/>
+      <a href="https://learn.microsoft.com/en-us/users/RehanMohammedCognizant-2584/credentials/9D4A2D5CD0FC9882?ref=https%3a%2f%2fwww.linkedin.com%2f" target="_blank">
+        <img src="https://github.com/Rehaaaan/Rehaaaan/blob/main/ChatGPT%20Image%20Oct%206%2C%202025%2C%2005_15_37%20AM.png" alt="Microsoft SC-900" width="90"><br/>
         <sub><b>Microsoft Security, Compliance & Identity (SC-900)</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.paloaltonetworks.com/cyberfit/credentials/xsiam-analyst" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Palo_Alto_Networks_logo.svg" alt="Palo Alto XSIAM Analyst" width="90"><br/>
+        <img src="https://github.com/Rehaaaan/Rehaaaan/blob/main/ChatGPT%20Image%20Oct%206%2C%202025%2C%2005_25_47%20AM.png" alt="Palo Alto XSIAM Analyst" width="90"><br/>
         <sub><b>Palo Alto Networks — XSIAM Analyst</b></sub>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://www.isc2.org/certifications/cc" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/ISC2_logo.svg" alt="(ISC)² CC" width="80"><br/>
+      <a href="https://www.credly.com/badges/431b6c55-9e39-444e-b137-a8318878ef53/public_url" target="_blank">
+        <img src="https://github.com/Rehaaaan/Rehaaaan/blob/main/ChatGPT%20Image%20Oct%206%2C%202025%2C%2005_26_53%20AM.png" alt="(ISC)² CC" width="90"><br/>
         <sub><b>(ISC)² — Certified in Cybersecurity (CC)</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.zscaler.com/education/ztca" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Zscaler_logo.svg" alt="Zscaler ZTCA" width="90"><br/>
+      <a href="https://verify.skilljar.com/c/ni96k5hbsrqt" target="_blank">
+        <img src="https://github.com/Rehaaaan/Rehaaaan/blob/main/ChatGPT%20Image%20Oct%206%2C%202025%2C%2005_18_42%20AM.png" alt="Zscaler ZTCA" width="90"><br/>
         <sub><b>Zscaler — Zero Trust Cyber Associate (ZTCA)</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.ielts.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/IELTS_logo.svg" alt="IELTS Academic (8/9)" width="80"><br/>
+        <img src="https://github.com/Rehaaaan/Rehaaaan/blob/main/ChatGPT%20Image%20Oct%206%2C%202025%2C%2005_27_56%20AM.png" alt="IELTS Academic (8/9)" width="90"><br/>
         <sub><b>IELTS — Academic (8/9)</b></sub>
       </a>
     </td>
@@ -131,7 +131,7 @@ Currently exploring:
 - **MITRE ATT&CK Mapping** for detection engineering  
 - **SOC Automation** with Power Automate & Logic Apps  
 - **Cloud Security Monitoring** (Sentinel + Defender for Cloud)  
-- **Advanced KQL Threat Hunting**
+- **Advanced KQL Threat Hunting (SC-200)**
 
 > _“In cybersecurity, the best defense is continuous learning.”_
 
